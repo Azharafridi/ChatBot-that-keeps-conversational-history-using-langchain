@@ -21,3 +21,4 @@ langchain_core
 langserve
 sse_starlette
 transformers
+langchain_huggingface
